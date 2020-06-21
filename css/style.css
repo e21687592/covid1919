@@ -8,7 +8,7 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 	line-height: 20px;
-	color: #999999;
+	color: ##25271C;
 	font-size: 300;
 	font-size: 16px;
 }
@@ -361,7 +361,7 @@ testimonial
 cta -2
 ***************************************/
 #cta-2{
-	background-color: rgb(41, 48, 46);
+	background-color: rgba(28,74,90, 0.9);
 }
 .white{
 	color: #fff;
