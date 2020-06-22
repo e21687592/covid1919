@@ -153,6 +153,7 @@ banner
 @media (max-width: 1024px){
   #banner{
     background-attachment: scroll;
+    width:1500px;
   }
 }
 .bg-color{
