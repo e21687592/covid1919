@@ -43,7 +43,7 @@ a, a:hover, a:focus, a:active{
 
 .section-padding{
 	padding: 60px 0px;
-
+	width: 1500px;
 }
 h2 {
     line-height: 20px;
@@ -210,6 +210,7 @@ services
 }
 .icon-info p{
 	font-size: 15px !important;
+	width: 200px;
 }
 /***************************************
 cta-1
